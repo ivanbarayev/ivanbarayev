@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sercan</h1>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanbarayev&label=Profile%20views&color=0e75b6&style=flat" alt="ivanbarayev" /> </p>
-
-📫 How to reach me **sreyhanli@hotmail.com**
----   
 
 ### Blogs posts
 
@@ -12,14 +8,28 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ivanbarayev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ivanbarayev" height="30" width="40" /></a>
-<a href="https://twitter.com/ivan_barayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivan_barayev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sereyhanli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sereyhanli" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6293599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6293599" height="30" width="40" /></a>
-<a href="https://instagram.com/ivanbarayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivanbarayev" height="30" width="40" /></a>
-<a href="https://medium.com/@ivanbarayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ivanbarayev" height="30" width="40" /></a>
+<p align="middle">
+  <a href="https://www.linkedin.com/in/sereyhanli" title="Follow me on LinkedIn 👔">
+    <img src="https://img.shields.io/badge/-Sercan%20Reyhanlı-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sereyhanli" />
+  </a>
+  <a href="https://twitter.com/ivan_barayev" title="Follow me on Twitter 🐦">
+    <img src="https://img.shields.io/badge/ivan_barayev-6633cc?style=flat-square&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ivanbarayev" title="Follow me on Instagram 📸">
+    <img src="https://img.shields.io/badge/ivanbarayev-6633cc?style=flat-square&logo=Instagram&logoColor=white" />
+  </a>  
+  <a href="https://stackoverflow.com/users/6293599" title="Follow me on StackOverflow">
+    <img src="https://img.shields.io/badge/ivanbarayev-6633cc?style=flat-square&logo=Stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@ivanbarayev" title="Follow me on Medium 📝">
+    <img src="https://img.shields.io/badge/ivanbarayev-6633cc?style=flat-square&logo=Medium&logoColor=white" />
+  </a>
+  <a href="https://dev.to/ivanbarayev" title="Follow me on Dev.to 📀">
+    <img src="https://img.shields.io/badge/ivanbarayev-6633cc?style=flat-square&logo=Dev.to&logoColor=white" />
+  </a>
+  <a href="https://dev.to/ivanbarayev" title="Follow me on Dev.to 📀">
+    <img src="https://komarev.com/ghpvc/?username=ivanbarayev&label=Profile%20views&color=0e75b6&style=flat" alt="ivanbarayev" />
+  </a>
 </p>
 
 ---
